@@ -29,6 +29,13 @@ This assignment aims to test your understanding of JavaScript basics, control st
    Age: 25 (Type: number)  
    Is student: true (Type: boolean)  
    ```
+![Screenshot (227)](https://github.com/user-attachments/assets/5184462d-bbed-4e13-b192-702a20d8db6f)
+![Screenshot (228)](https://github.com/user-attachments/assets/f26bf627-805a-4796-9b1d-5f81a0544c14)
+![Screenshot (229)](https://github.com/user-attachments/assets/25ccc727-382c-4ed5-9f97-09cd84bacb05)
+![Screenshot (230)](https://github.com/user-attachments/assets/e7d3e70e-2609-417a-ab4d-adcc45358d4a)
+
+
+
 
 2. **Operators**:
    - Write a simple calculator function that performs addition, subtraction, multiplication, and division using two numbers provided by the user (use `prompt()` for input).  
